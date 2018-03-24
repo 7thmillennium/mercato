@@ -1,0 +1,4 @@
+module hcapiplugin {
+    umbrella "/home/looper/projects/LABORATORY/mercato/.build/checkouts/omr-agentcore-3347150596200565194/src/hcapiplugin/include"
+    export *
+}

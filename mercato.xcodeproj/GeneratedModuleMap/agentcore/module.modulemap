@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/home/looper/projects/LABORATORY/mercato/.build/checkouts/omr-agentcore-3347150596200565194/src/agentcore/include"
+    export *
+}

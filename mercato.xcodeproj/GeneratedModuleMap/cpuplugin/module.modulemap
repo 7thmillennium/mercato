@@ -1,0 +1,4 @@
+module cpuplugin {
+    umbrella header "/home/looper/projects/LABORATORY/mercato/.build/checkouts/omr-agentcore-3347150596200565194/src/cpuplugin/include/cpuplugin.h"
+    export *
+}
